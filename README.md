@@ -6,7 +6,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/mudendahandongwe/Vulnerability-Management-Program-Implementation)**
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/mudendahandongwe/threat-hunting-scenario-tor)**
+  
 
 ## 🚨 Threat Hunting and Security Operations
 
