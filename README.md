@@ -12,6 +12,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/mudendahandongwe/threat-hunting-scenario-tor)**
 
+
+## 👨‍💻 SOC Honeynet in Azure
+
+- **[SOC Honeynet in Azure](https://github.com/mudendahandongwe/SOC-Honeynet-in-Azure)**
+
+
 <hr/>
 
 ## 🤳 Connect With Me
