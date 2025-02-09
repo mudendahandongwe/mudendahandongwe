@@ -21,6 +21,11 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Splunk, Active Directory](https://github.com/mudendahandongwe/Splunk-Active-Directory)**
 
+
+## 👨‍💻 Attacks & Detection with Wazuh
+
+- **[Attacks & Detect with Wazuh](https://github.com/mudendahandongwe/attack-detect-with-wazuh)**
+
 <hr/>
 
 ## 🤳 Connect With Me
