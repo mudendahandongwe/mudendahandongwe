@@ -26,6 +26,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[Attacks & Detect with Wazuh](https://github.com/mudendahandongwe/attack-detect-with-wazuh)**
 
+## 🚨 Governance, Risk and Compliance Capstone Project
+- **[Design comprehensive Corporate Cybersecurity Program using the NIST CSF 2.0 Framework](https://github.com/mudendahandongwe/GRC)**
+
 <hr/>
 
 ## 🤳 Connect With Me
