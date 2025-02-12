@@ -30,7 +30,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 - **[Design comprehensive Corporate Cybersecurity Program using the NIST CSF 2.0 Framework](https://github.com/mudendahandongwe/GRC)**
 
 ## ⚠️ Playbooks
-
+- **[Phishing Email Alerts Playbook](https://github.com/mudendahandongwe/Phishing-Email-Alert-Playbook)**
 
 
 <hr/>
