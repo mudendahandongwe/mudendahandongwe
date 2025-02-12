@@ -32,7 +32,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Playbooks
 - **[Phishing Email Alerts Playbook](https://github.com/mudendahandongwe/Phishing-Email-Alert-Playbook)**
 - **[Brute Force Analysis Playbook](https://github.com/mudendahandongwe/Brute-Force-Analysis)**
-
+- **[Malware Investigation Playbook](https://github.com/mudendahandongwe/Malware-Investigation)**
 <hr/>
 
 ## 🤳 Connect With Me
